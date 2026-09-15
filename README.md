@@ -30,6 +30,13 @@ The dashboard provides a simple view of sales performance by month, product, and
 - Excel Formulas
 - Dashboard Design
 
+
+## RAW DATA
+
+![Sales Analytics Dashboard](sales_rawdata.jpg)
+
+
+
 ## 📷 Dashboard Preview
 
 ![Sales Analytics Dashboard](dash_board.jpg)
@@ -37,11 +44,11 @@ The dashboard provides a simple view of sales performance by month, product, and
 
 ## 📷 Products
 
-![Sales Analytics Dashboard](dash_board.jpg)
+![Sales Analytics Dashboard](products.jpg)
 
 ## 📷 Salesmans
 
-![Sales Analytics Dashboard](dash_board.jpg)
+![Sales Analytics Dashboard](salesman.jpg)
 
 ## 📁 Project Files
 
